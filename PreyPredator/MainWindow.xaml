@@ -1,0 +1,22 @@
+﻿<Window x:Class="PreyPredator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PreyPredator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Canvas Name="paperCanvas" HorizontalAlignment="Left" Height="275" Margin="209,56,0,0" VerticalAlignment="Top" Width="410" Background="DarkSlateGray"/>
+        <Button Name="nextRoundButton" Content="Next Round" HorizontalAlignment="Left" Height="29" Margin="46,228,0,0" VerticalAlignment="Top" Width="136" Click="nextRoundButton_Click"/>
+        <Label Content="Round:" HorizontalAlignment="Left" Height="29" Margin="46,27,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Content="LadyBugs:" HorizontalAlignment="Left" Height="29" Margin="46,56,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Content="Louses:" HorizontalAlignment="Left" Height="29" Margin="46,85,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Name="roundLabel" HorizontalAlignment="Left" Height="28" Margin="114,28,0,0" VerticalAlignment="Top" Width="90"/>
+        <Label Name="ladyBugLabel" HorizontalAlignment="Left" Height="28" Margin="114,56,0,0" VerticalAlignment="Top" Width="90"/>
+        <Label Name="louseLabel" HorizontalAlignment="Left" Height="28" Margin="114,86,0,0" VerticalAlignment="Top" Width="90"/>
+
+
+
+    </Grid>
+</Window>
