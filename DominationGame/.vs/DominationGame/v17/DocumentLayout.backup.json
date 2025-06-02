@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PXL\\1e_jaar\\semester 2\\Csharp\\oefeningen\\H18\\DominationGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A263E47-85AC-49FF-85D2-7F3DDE5F87CC}|DominationGame.csproj|c:\\pxl\\1e_jaar\\semester 2\\csharp\\oefeningen\\h18\\dominationgame\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A263E47-85AC-49FF-85D2-7F3DDE5F87CC}|DominationGame.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A263E47-85AC-49FF-85D2-7F3DDE5F87CC}|DominationGame.csproj|c:\\pxl\\1e_jaar\\semester 2\\csharp\\oefeningen\\h18\\dominationgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A263E47-85AC-49FF-85D2-7F3DDE5F87CC}|DominationGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A263E47-85AC-49FF-85D2-7F3DDE5F87CC}|DominationGame.csproj|c:\\pxl\\1e_jaar\\semester 2\\csharp\\oefeningen\\h18\\dominationgame\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A263E47-85AC-49FF-85D2-7F3DDE5F87CC}|DominationGame.csproj|solutionrelative:block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\PXL\\1e_jaar\\semester 2\\Csharp\\oefeningen\\H18\\DominationGame\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "C:\\PXL\\1e_jaar\\semester 2\\Csharp\\oefeningen\\H18\\DominationGame\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwEgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:11:49.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 344,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\PXL\\1e_jaar\\semester 2\\Csharp\\oefeningen\\H18\\DominationGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\PXL\\1e_jaar\\semester 2\\Csharp\\oefeningen\\H18\\DominationGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:21:28.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\PXL\\1e_jaar\\semester 2\\Csharp\\oefeningen\\H18\\DominationGame\\Block.cs",
+              "RelativeDocumentMoniker": "Block.cs",
+              "ToolTip": "C:\\PXL\\1e_jaar\\semester 2\\Csharp\\oefeningen\\H18\\DominationGame\\Block.cs",
+              "RelativeToolTip": "Block.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:40:46.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

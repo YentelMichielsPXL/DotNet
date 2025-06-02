@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CEEC748-8712-484F-8F36-1D9F0F0333A2}|PreyPredator.csproj|c:\\pxl\\2e_jaar\\semester_2\\dotnet\\extra oefeningen\\preypredator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CEEC748-8712-484F-8F36-1D9F0F0333A2}|PreyPredator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4CEEC748-8712-484F-8F36-1D9F0F0333A2}|PreyPredator.csproj|c:\\pxl\\2e_jaar\\semester_2\\dotnet\\extra oefeningen\\preypredator\\animalworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CEEC748-8712-484F-8F36-1D9F0F0333A2}|PreyPredator.csproj|solutionrelative:animalworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CEEC748-8712-484F-8F36-1D9F0F0333A2}|PreyPredator.csproj|c:\\pxl\\2e_jaar\\semester_2\\dotnet\\extra oefeningen\\preypredator\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CEEC748-8712-484F-8F36-1D9F0F0333A2}|PreyPredator.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEEC748-8712-484F-8F36-1D9F0F0333A2}|PreyPredator.csproj|c:\\pxl\\2e_jaar\\semester_2\\dotnet\\extra oefeningen\\preypredator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEEC748-8712-484F-8F36-1D9F0F0333A2}|PreyPredator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CEEC748-8712-484F-8F36-1D9F0F0333A2}|PreyPredator.csproj|c:\\pxl\\2e_jaar\\semester_2\\dotnet\\extra oefeningen\\preypredator\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
-              "ToolTip": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\Animal.cs*",
-              "RelativeToolTip": "Animal.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCEAAABhAAAAAAAAAA==",
+              "ToolTip": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T09:46:58.06Z",
               "EditorCaption": ""
@@ -72,8 +72,8 @@
               "Title": "Position.cs",
               "DocumentMoniker": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\Position.cs",
               "RelativeDocumentMoniker": "Position.cs",
-              "ToolTip": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\Position.cs*",
-              "RelativeToolTip": "Position.cs*",
+              "ToolTip": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\Position.cs",
+              "RelativeToolTip": "Position.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwBMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T10:06:23.478Z",
@@ -93,26 +93,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T10:00:51.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AnimalWorld.cs",
               "DocumentMoniker": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\AnimalWorld.cs",
               "RelativeDocumentMoniker": "AnimalWorld.cs",
               "ToolTip": "C:\\PXL\\2e_jaar\\semester_2\\DotNet\\Extra oefeningen\\PreyPredator\\AnimalWorld.cs",
               "RelativeToolTip": "AnimalWorld.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T12:06:52.342Z",
               "EditorCaption": ""
